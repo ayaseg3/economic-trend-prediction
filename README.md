@@ -38,6 +38,6 @@ python test.py
 ## Note
 After implementing test.py, please enter the economic text.
 
-Then, the economic situation is displayed in 5 stages(1[bad] ~ 5[good]).
+Then, the economic prediction is displayed in 5 stages(1[bad] ~ 5[good]).
 
 If you want to enter a lot of text instead of command input, comment out lines 183 and 184 of test.py and uncomment lines 180.
