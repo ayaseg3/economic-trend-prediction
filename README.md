@@ -25,7 +25,11 @@ pip install mojimoji==0.0.11
 
 ## Usage
 ```bash
-git clone https://github.com/ayaseg3/economic-trend-prediction
-cd examples
-python demo.py
+git clone https://github.com/ayaseg3/economic-trend-prediction.git
+cd economic-trend-prediction
+python test.py
 ```
+
+## Note
+After implementing test.py, please enter the economic text.
+Then, the economic situation is displayed in 5 stages.
