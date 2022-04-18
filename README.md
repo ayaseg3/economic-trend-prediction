@@ -1,7 +1,8 @@
 # economic-trend-prediction
 
 ## Overview
-This is the result of my graduation research.
+This data is a program code that simplifies the results of my graduation research.
+
 
 ## The title of the graduation research
 en : Analysis of economic trends using small data sets using deep learning
@@ -35,3 +36,5 @@ python test.py
 After implementing test.py, please enter the economic text.
 
 Then, the economic situation is displayed in 5 stages.
+
+If you want to enter a lot of text instead of command input, comment out lines 183 and 184 of test.py and uncomment lines 180.
