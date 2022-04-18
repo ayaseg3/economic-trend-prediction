@@ -178,6 +178,7 @@ if __name__ == '__main__':
 
     ## 手動入力の場合 ##
     #sents = create_sentence(sents)
+    
     ## コマンド入力の場合 ##
     data = input("景気予測文章の入力:")
     sents = create_sentence([data])
