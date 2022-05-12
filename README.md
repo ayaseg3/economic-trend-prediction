@@ -8,7 +8,7 @@ For an overview of your graduation research, please read below.
 [森田彩星_卒論.pdf](https://github.com/ayaseg3/economic-trend-prediction/blob/master/%E6%A3%AE%E7%94%B0%E5%BD%A9%E6%98%9F_%E5%8D%92%E8%AB%96.pdf)
 
 ## The title of the graduation research
-en : Analysis of economic trends using small data sets using deep learning
+en : Economic Trend Prediction based on DNN with limited set of documents
 
 ja : 深層学習を用いた少量データセットによる景気動向分析
 
